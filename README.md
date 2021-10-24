@@ -1,3 +1,4 @@
-Hi, I’m @CamillaHanninen
-I'm studying Information Technology and I'm interested in web applications and data-analysis.
-You can reach me by camilla.hanninen@outlook.com
+Hi,
+My name is @CamillaHanninen and I am studying information and communications technology and physics at the university of Turku in Finland.
+I'm interested in computational astrophysics. 
+You can reach me by email at camilla.hanninen@outlook.com
